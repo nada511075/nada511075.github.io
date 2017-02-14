@@ -1,8 +1,19 @@
-body {
-    background-color: lightblue;
-}
+body{
 
-h1 {
-    color: navy;
-    margin-left: 20px;
+    margin: 0 auto;
+
+    background-color:blue;
+
+ /   font-family:Georgia, Palatino, serif;
+
+    font-family: 'Autour One';font-size: 22px;
+
+    color: #333333; /* dark gray not black, color of base font */
+
+    max-width: 800px;
+
+    padding: 30px;
+
+    font-size: 18px;
+
 }
