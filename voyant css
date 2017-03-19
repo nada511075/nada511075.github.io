@@ -1,0 +1,28 @@
+body {
+background-image: url("voyant image 2.jpg");
+background-size:cover;
+background-repeat: no-repeat;
+background-position: center center;
+background-attachment: fixed;
+}
+h{
+font-family:CG Omega;
+text-align:center;
+color: yellow;
+font-size: 65px;
+}
+     
+p{
+text-align: left;
+font-family:Times new roman;
+color:yellow;
+font-size: 30px;
+    font-weight: bold;
+  }
+iframe {
+display: block;
+width: 60%;
+height: 600px;
+margin: 0 auto;
+border: 0;
+}
