@@ -8,7 +8,7 @@ background-attachment: fixed;
 h{
 font-family:CG Omega;
 text-align:center;
-color: yellow;
+color: black;
 font-size: 65px;
 }
      
