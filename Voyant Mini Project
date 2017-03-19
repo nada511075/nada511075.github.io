@@ -1,0 +1,30 @@
+<html>
+<link rel="stylesheet"type="text/css" href=nada511075.github.io/voyant css"> 
+<h>
+
+The Visualization Project on Jane Austen’s Emma and Charles Dicken’s Great Expectations
+</h>
+
+<p> Prepared by Nada Tayem </p>
+
+<p> I aim to compare two 19th century novels; Jane Austen’s Emma and Charles Dickens’s Great Expectations. Both novels are written in almost the same time span and both novels can be claimed to belong to the 19th century bildungsroman genre. The bildungsroman novel traces the moral, emotional and psychological growth of its main character. I’ve been curious to figure out if the gender of the writer of the bildungsroman novel has any effect on the diction of words in the novel or even if the gender of the bildungsroman hero/heron character can make any difference in the choice of words too. Therefore, I’ve decided to use Voyant as a tool to help me define any implications on this issue.</p>
+
+<p>The corpus analyzed has 2 documents with 346,114 total words. The Most frequent five words in the corpus are: Mr (1862);Miss (984); 
+Mrs (864);little (724); know (714).</p>
+
+<iframe style='width: 100%; height: 800px' src='//voyant-tools.org/?stopList=keywords-55028ffab17e2266e80616a975c2fe28&bins=2&corpus=0310dcd9af72383cb24c88dbcea7f38b&view=Trends'></iframe>
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAANCAYAAADISGwcAAACLUlEQVQ4T7WUTWgTURDHZ94mpAcxNt2tN41S8NKDSTYnD1XEg6j1A0UQCh7EFhRrEQqC3a9ak4ha0YNW8FDxIFSK8WippV4EdwNVaUF6CZ7E3bQNiPYjuyMbSEkxadwV3/HN+//n9+bNGwQfi1KwHxh0gAOjeB3yPizWJehHTCnIA8JOoDLAeT8eFY1nAF7Su1+GLmU6uA/hJ2tnv3YPvIgCIPmF8ATAK7mrRM4+hoGh7+FYvrVotBPBNCEeKiiJt34gPAEIkv7TZHwElF3L1cn4AWOyBExbGoxPe4UoA2yRP7YGl9dWFjNisZ4Br+QuguPELS3ZU+uMIBvvbSJpQUtOeIFYrwAvG4+AaMbSkiO1DHhZ/4J24Kh5MzZfK96sGDs4B95Zmhitjkdk4+7CXKIfxtCu3qfbsBf7YWbDE9SDECT9MCFetlTxyGa3a5H1IUb4w9TE1FZlNhKiX1M2wCgH1GWqyVhFS2m4DwC9AJD9owdcCCKYK2jiw4qAl/UJIi5d0OKTjcorSLplI9fDkf24RHhgcVD8LEhGLyFFLTXZ5+q/3WrJbmeFTiL8VLMJI5JxhiGcM5vE7Cy17Tm5OnJsXjnY3ii5Gw8r+u4gsWFLTRzf0KiyniUKjCPaJ5qx2JYOZqZOsTf36v6C0+qDa2OhK3dck+elzqddN15f+BuATZ9Iyj0DBq8KSmK84SCiYdgGK+UxGwYGMbdh/hWglr7hHHBBsA+W/kdy1/M308jRQrWoNzAAAAAASUVORK5CYII=" />
+<iframe style='width: 100%; height: 800px' src='//voyant-tools.org/?stopList=keywords-d6345e5dc40d6f675ed721d24ccfa56a&panels=cirrus%2Creader%2Cdocumentterms%2Csummary%2Ccontexts&corpus=0310dcd9af72383cb24c88dbcea7f38b'></iframe>
+
+<p>It is quite interesting to notice that even the most frequent words in both texts are words that address the gender. The repetitive use of the word Mr. is quite normal especially in novel that describes the formative years of the masculine character just like Pip’s journey of transformation in Great Expectations. However, the data shows that the word Mr. in Dicken’s novel is less repeated in comparison to Jane Austen’s novel Emma.
+
+When examining the use of the words Miss and Mrs., Jane Austen seems to be using them more frequently which may indicate more concerns to issues related to gender and social class.</p>
+<iframe style='width: 100%; height: 800px' src='//voyant-tools.org/?stopList=keywords-d6345e5dc40d6f675ed721d24ccfa56a&panels=cirrus%2Creader%2Cdocumentterms%2Csummary%2Ccontexts&corpus=0310dcd9af72383cb24c88dbcea7f38b'></iframe>
+
+<p>The coming of age novel or any typical bildungsroman novel assume a kind of growth, maturity or change in attitude or perspective. Therefore, in Voyant the repetition of words such as know ,little, think,thought,old, young, is notable in both novels. See [[data]]
+
+The chart shows that the word know is repeatdly used in both novels equally.In spite of the different genders for characters and authors in both novels, the word know is one of the most frequent words probably because both novels belong to the same genre or because the coming of age novel require the characters, whether feminine or masculine to grow or to know.
+
+As a conclusion, the figures reveal that although Dickens's text has more word dinsity,the use of variable gender titles such as Mr. and Mrs. is less in comparison to Austen's *Emma*.In addition, both works freauently use the word know in almost a similar manner.More investigation and research could be conducted as to verify the most frequently used words in such novels and as a further research scope, one can trace the dictions of words in relation to the genre by also analysing 17th, 18th,19th and 20th century bildungsroman novels.</p>
+
+</p>
