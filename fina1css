@@ -1,0 +1,50 @@
+body {
+    background-image: url("1953015.jpg");
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+}
+  
+   
+img { 
+   width: 200px;
+   height: 150px;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+
+
+
+   
+
+h1{
+ 
+ font-family: Italianno;
+ text-align:center;
+ color: yellow;
+ font-size: 50px;
+}
+
+
+h2{
+  color: LightBlue;   
+}
+
+
+h3{
+ color: LightBlue; 
+}
+
+h4{
+ color: LightBlue; 
+}
+p{
+color: LightBlue;
+}
+
+
+li{
+   color: LightBlue;
+}
